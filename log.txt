@@ -1,0 +1,23 @@
+commit 57dcf48315575fec5c4b46d4b1430bd4c3500cf7
+Author: sagieb <sagie.brodksy@gmail.com>
+Date:   Fri Oct 22 14:09:27 2021 +0300
+
+    added a file to gitignore
+
+commit c0ee831d6fc91ea4e476eace45250dce721caf5e
+Author: sagieb <sagie.brodksy@gmail.com>
+Date:   Fri Oct 22 13:58:52 2021 +0300
+
+    added gitignore
+
+commit e5dbed01e49c984b63600ab04f161b9e333c688f
+Author: sagieb <sagie.brodksy@gmail.com>
+Date:   Fri Oct 22 13:35:04 2021 +0300
+
+    added two files
+
+commit 73fb329b375228b7609548bfeefc8fb064c14037
+Author: sagieb <sagie.brodksy@gmail.com>
+Date:   Fri Oct 22 13:27:42 2021 +0300
+
+    added readme.txt
